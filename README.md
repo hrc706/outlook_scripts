@@ -1,0 +1,2 @@
+# outlook_scripts
+Mac版のoutlookに向けて便利なショットカットを提供するプロジェクトです
